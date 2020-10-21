@@ -62,7 +62,7 @@ Creates a new BottomBar instance
 - **format:** (String) progress bar output format @see format section
 
 
-### Bar Formatting
+#### Bar Formatting
 The progressbar can be customized by using the following build-in placeholders. They can be combined in any order.
 
 - {bar} - the progress bar, customizable by the options **barsize**, **barCompleteChar** and **barIncompleteChar**
@@ -79,3 +79,5 @@ bottomBar.update(value, total, {
     customValue: 'test',
 });
 ```
+
+#### bottomBar.update(value, total, customValues)

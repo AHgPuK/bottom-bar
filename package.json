@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": "Andrey Hohutkin <andrey.hohutkin@gmail.com>",
+  "description": "A CLI progress bar",
+  "homepage": "https://github.com/AHgPuK/bottom-bar",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AHgPuK/bottom-bar.git"
+  },
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^7.3.3"
