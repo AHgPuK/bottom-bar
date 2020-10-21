@@ -22,11 +22,11 @@ CLI status bar.
 ### Installation
 
 <a name="installation"></a>
-#####npm:
+##### npm:
 ```shell
 npm install bottom-bar
 ```
-#####yarn:
+##### yarn:
 ```shell
 yarn add bottom-bar
 ```
