@@ -81,3 +81,21 @@ bottomBar.update(value, total, {
 ```
 
 #### bottomBar.update(value, total, customValues)
+Puts a progress bar to output
+
+- value (Number) - current value
+- total (Number) - max value
+- customValues (Object) - additional parameters in format
+
+#### bottomBar.clear()
+Removes bottom bar from output
+
+#### bottomBar.log()
+Prints a log and keeps a progress bar
+
+#### bottomBar.destroy()
+Destroys an instance of bottomBar and associated streams
+
+
+
+
