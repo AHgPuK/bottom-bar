@@ -40,7 +40,7 @@ const BottomBar = function (options = {}) {
 			bottomBar.updateBottomBar('');
 		},
 		log: function (...args) {
-			bottomBar.log.write(...args);
+			bottomBar.log.write(args.join(' '));
 		},
 		destroy: function () {
 			bottomBar.close();
