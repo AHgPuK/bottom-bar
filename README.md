@@ -37,7 +37,8 @@ yarn add bottom-bar
 const BottomBar = require('bottom-bar');
 
 const bottomBar = BottomBar();
-for (let curr = 0; curr < 200; curr += 10)
+const max = 200;
+for (let curr = 0; curr < max; curr += 10)
 {
     bottomBar.update(curr, max);
     // Sleep - Here is your part of code
