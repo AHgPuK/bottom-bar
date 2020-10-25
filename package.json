@@ -1,6 +1,6 @@
 {
   "name": "bottom-bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "author": "Andrey Hohutkin <andrey.hohutkin@gmail.com>",
@@ -13,5 +13,17 @@
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^7.3.3"
-  }
+  },
+  "keywords": [
+    "cli",
+    "tty",
+    "terminal",
+    "progress",
+    "progressbar",
+    "bar",
+    "status",
+    "statusbar",
+    "utility",
+    "widget"
+  ]
 }
