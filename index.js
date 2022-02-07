@@ -5,7 +5,7 @@ const defaultOptions = {
 	barCompleteChar: '\u2588',
 	barIncompleteChar: '\u2591',
 	barsize: 40,
-	format: 'Coupon check progress |' + Colors.cyan('{bar}') + '| {percentage}% | {value}/{total}',
+	format: 'Progress |' + Colors.cyan('{bar}') + '| {percentage}% | {value}/{total}',
 }
 
 
