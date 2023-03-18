@@ -11,8 +11,8 @@
     "url": "git://github.com/AHgPuK/bottom-bar.git"
   },
   "dependencies": {
-    "colors": "^1.4.0",
-    "inquirer": "^7.3.3"
+    "colors": "1.4.0",
+    "inquirer": "^8.0.0"
   },
   "keywords": [
     "cli",

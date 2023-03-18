@@ -48,6 +48,6 @@ const BottomBar = function (options = {}) {
 	}
 }
 
-BottomBar.Colors = Colors
+BottomBar.Colors = Colors;
 
 module.exports = BottomBar;
